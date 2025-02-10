@@ -112,9 +112,6 @@ Click the **Clear** button to remove all nodes and reset the visualization.
 ---
 
 
-Built with
-p5.js - A library for creating visualizations using the canvas
-Future Ideas
-Make the tree self-balancing using AVL tree rotation
-Add an animation for removing a node from the tree
-Improve the performance of the Explorer class for larger trees with svg
+## 💡 Built with
+🔹 p5.js - A library for creating visualizations using the canvas
+
